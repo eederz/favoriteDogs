@@ -1,0 +1,13 @@
+.headers-main {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.container-pet {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.container-pet button {
+}
